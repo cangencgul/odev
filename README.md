@@ -1,0 +1,2 @@
+# odev
+devre analiz odevi
